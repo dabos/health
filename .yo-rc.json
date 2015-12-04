@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "jhipster",
+    "packageName": "org.jhipster.health",
+    "packageFolder": "org/jhipster/health",
+    "authenticationType": "xauth",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "gradle",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "1810dcb5f80a285aabd5677fadd5f05ee731beda"
+  }
+}
